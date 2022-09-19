@@ -1,0 +1,3 @@
+= asignación de valor
+== comparación entre valores
+=== comparación estricta entre valores
